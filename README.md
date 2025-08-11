@@ -2,7 +2,7 @@
 
 дискорд: sasha_mat
 
-тг: @sasha_mat72
+тг: @sasha_mat42
 
 <!---
 sasha-mat/sasha-mat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

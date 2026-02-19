@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **lol**
 
-- 👨‍💻 All of my projects are available at **[https://sasha-mat.github.io](https://sasha-mat.github.io)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/sasha-mat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sasha-mat" height="30" width="40" /></a>
